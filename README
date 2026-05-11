@@ -6,6 +6,29 @@ Passionate about RTL-to-GDSII ASIC implementation, Timing Closure, CTS, Routing,
 
 ---
 
+## ⚡ Specialization
+
+- ASIC Physical Design
+- RTL-to-GDSII Flow
+- Timing Closure
+- Clock Tree Synthesis (CTS)
+- Static Timing Analysis (STA)
+- Routing Optimization
+- PPA Optimization
+- TCL Automation
+
+---
+
+## 🛠️ Tech Stack
+
+![Cadence](https://img.shields.io/badge/Cadence-Innovus-red)
+![OpenLane](https://img.shields.io/badge/OpenLane-Sky130-blue)
+![Verilog](https://img.shields.io/badge/HDL-Verilog-orange)
+![Linux](https://img.shields.io/badge/OS-Linux-black)
+![TCL](https://img.shields.io/badge/Scripting-TCL-green)
+
+---
+
 ## 🔧 Tools & Technologies
 
 - Cadence Innovus
@@ -13,9 +36,9 @@ Passionate about RTL-to-GDSII ASIC implementation, Timing Closure, CTS, Routing,
 - OpenLane (Sky130)
 - TCL Scripting
 - Verilog HDL
-- STA & Timing Closure
-- Physical Design Flow
 - Linux Environment
+- Timing Closure
+- Physical Verification
 
 ---
 
@@ -25,10 +48,10 @@ Passionate about RTL-to-GDSII ASIC implementation, Timing Closure, CTS, Routing,
 Complete RTL-to-GDSII ASIC implementation with timing closure and DRC clean design using Cadence Innovus & Genus.
 
 ### 🔹 ChipTop ASIC Physical Design
-Full ASIC Physical Design flow including Floorplanning, CTS, Routing, and Timing Analysis using Cadence Innovus.
+Full ASIC Physical Design flow including Floorplanning, Macro Placement, CTS, Routing, and Timing Analysis using Cadence Innovus.
 
 ### 🔹 FIFO ASIC Physical Design
-RTL-to-GDSII implementation with P&R optimization and timing analysis.
+RTL-to-GDSII implementation with Placement & Routing optimization and timing analysis.
 
 ### 🔹 ALU16 PPA Optimization (OpenLane)
 16-bit ALU implementation using OpenLane Sky130 with PPA optimization.
@@ -44,11 +67,17 @@ RTL-to-GDSII implementation with P&R optimization and timing analysis.
 - Routing Optimization
 - Low Power Design
 - PPA Optimization
+- Backend VLSI Flow
 
 ---
 
 ## 🌐 Connect With Me
 
+- LinkedIn: https://www.linkedin.com/in/tavakalmastan
+
+---
+
+⭐ Exploring opportunities in ASIC Physical Design and VLSI Backend Engineering.
 - LinkedIn: https://www.linkedin.com/in/tavakalmastan
 
 ---
