@@ -1,12 +1,12 @@
 # Hi 👋, I'm Tavakalmastan
 
-## 🚀 ASIC Physical Design Engineer
+# 🚀 ASIC Physical Design Engineer | RTL-to-GDSII | STA | CTS | Timing Closure | P&R
 
-Aspiring ASIC Physical Design Engineer with hands-on experience in RTL-to-GDSII implementation, Timing Closure, CTS, Routing, STA, and PPA Optimization using industry-standard Cadence tools and OpenLane.
+Passionate ASIC Physical Design Engineer with hands-on experience in complete RTL-to-GDSII implementation flow including Floorplanning, Placement, Clock Tree Synthesis (CTS), Routing, Static Timing Analysis (STA), MMMC analysis, Timing Closure, and PPA Optimization using Cadence Innovus, Genus, and OpenLane (Sky130).
 
-🎓 Completed Bachelor of Engineering (B.E) in 2026
-
-🏢 Successfully completed a **Physical Design Internship Program** conducted from **02 FEB 2026 to 18 MAY 2026**, organized by **VLSIMINDS (A Division of S2C Semiconductors Pvt. Ltd.)**
+🎓 Bachelor of Engineering (B.E) in Electronics & Communication Engineering — 2026  
+🏢 Physical Design Intern at S2S Semiconductors / VLSIMINDS  
+📍 Bengaluru, India
 
 ---
 
@@ -52,6 +52,30 @@ RTL-to-GDSII implementation with Placement & Routing optimization and timing ana
 
 ---
 
+# 📚 Research Publication
+
+📄 **PERFORMANCE ANALYSIS OF SIGNAL-CONDITIONING SUBSYSTEM USING 90nm TECHNOLOGY**  
+Published in VEDAS — 2026
+
+Focus Areas:
+- Analog Front-End Design
+- 90nm CMOS
+- Layout-aware analysis
+- Post-layout verification
+- Mixed-signal subsystem behavior
+
+---
+
+# 🏆 Achievements
+
+- 🥇 1st Prize — AI Hackathon
+- 🧠 Published VLSI Research Paper
+- 🎓 NPTEL Certified — RTL-to-GDSII Design Flow
+- 💼 Physical Design Internship Experience
+- 🚀 Multiple RTL-to-GDSII ASIC Projects
+
+---
+
 ## 🎯 Areas of Interest
 
 - ASIC Physical Design
@@ -68,7 +92,134 @@ RTL-to-GDSII implementation with Placement & Routing optimization and timing ana
 ## 🌐 Connect With Me
 
 - LinkedIn: https://www.linkedin.com/in/tavakalmastan
+# Hi 👋, I'm Tavakalmastan
+
+# 🚀 ASIC Physical Design Engineer | RTL-to-GDSII | STA | CTS | Timing Closure | P&R
+
+Passionate ASIC Physical Design Engineer with hands-on experience in complete RTL-to-GDSII implementation flow including Floorplanning, Placement, Clock Tree Synthesis (CTS), Routing, Static Timing Analysis (STA), MMMC analysis, Timing Closure, and PPA Optimization using Cadence Innovus, Genus, and OpenLane (Sky130).
+
+🎓 Bachelor of Engineering (B.E) in Electronics & Communication Engineering — 2026  
+🏢 Physical Design Intern at S2S Semiconductors / VLSIMINDS  
+📍 Bengaluru, India
 
 ---
 
-⭐ Exploring opportunities in ASIC Physical Design and VLSI Backend Engineering.
+# ⚡ Specialization
+
+- ASIC Physical Design
+- RTL-to-GDSII Flow
+- Timing Closure
+- Clock Tree Synthesis (CTS)
+- Static Timing Analysis (STA)
+- MMMC Timing Analysis
+- Placement & Routing (P&R)
+- Routing Optimization
+- PPA Optimization
+- TCL Automation
+- Physical Verification
+
+---
+
+# 🛠️ Tech Stack
+
+![Cadence](https://img.shields.io/badge/Cadence-Innovus-red)
+![Genus](https://img.shields.io/badge/Cadence-Genus-darkred)
+![OpenLane](https://img.shields.io/badge/OpenLane-Sky130-blue)
+![Verilog](https://img.shields.io/badge/HDL-Verilog-orange)
+![Linux](https://img.shields.io/badge/OS-Linux-black)
+![TCL](https://img.shields.io/badge/Scripting-TCL-green)
+
+---
+
+# 🔧 Tools & Technologies
+
+- Cadence Innovus
+- Cadence Genus
+- OpenLane (Sky130)
+- Verilog HDL
+- TCL Scripting
+- Unix/Linux
+- MMMC Setup
+- Static Timing Analysis (STA)
+- Timing Closure
+- Physical Verification
+- CMOS Fundamentals
+- PPA Optimization
+
+---
+
+# 📌 Featured Projects
+
+## 🔹 SRAM Controller ASIC Design
+Complete RTL-to-GDSII ASIC implementation with timing closure and DRC clean design using Cadence Innovus & Genus.
+
+### Key Achievements
+- Reduced ~7800 DRC violations to 0
+- Improved setup timing violations significantly
+- Achieved hold-clean design
+- Clock skew optimized to ~0.020 ns
+
+---
+
+## 🔹 ChipTop ASIC Physical Design
+Full Physical Design implementation including Floorplanning, Macro Placement, CTS, Routing, Timing Analysis, and QoR optimization using Cadence Innovus.
+
+---
+
+## 🔹 ALU16 PPA Optimization (OpenLane)
+16-bit ALU implementation using OpenLane Sky130 with timing-driven PPA optimization and successful RTL-to-GDSII flow completion.
+
+---
+
+## 🔹 Elevator Control System using Verilog HDL
+FSM-based Elevator Control System with Python Tkinter GUI integration for real-time visualization.
+
+---
+
+# 📚 Research Publication
+
+📄 **A Comprehensive Review on Signal-Conditioning Subsystems Using 90nm CMOS Technology**  
+Published in IJSREM — December 2025
+
+Focus Areas:
+- Analog Front-End Design
+- 90nm CMOS
+- Layout-aware analysis
+- Post-layout verification
+- Mixed-signal subsystem behavior
+
+---
+
+# 🏆 Achievements
+
+- 🥇 1st Prize — AI Hackathon
+- 🧠 Published VLSI Research Paper
+- 🎓 NPTEL Certified — RTL-to-GDSII Design Flow
+- 💼 Physical Design Internship Experience
+- 🚀 Multiple RTL-to-GDSII ASIC Projects
+
+---
+
+# 🎯 Areas of Interest
+
+- ASIC Physical Design
+- Timing Closure
+- STA
+- CTS
+- Routing Optimization
+- Backend VLSI Flow
+- Low Power Design
+- Physical Verification
+- PPA Optimization
+
+---
+
+# 🌐 Connect With Me
+
+- LinkedIn: www.linkedin.com/in/tavakalmastan
+- GitHub: https://github.com/Tavakalmastan
+
+---
+
+⭐ Exploring opportunities in ASIC Physical Design, Backend VLSI, and RTL-to-GDSII Implementation.
+
