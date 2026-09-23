@@ -1,100 +1,284 @@
 # Hi 👋, I'm Tavakalmastan
 
-# 🚀 ASIC Physical Design Engineer | RTL-to-GDSII | STA | CTS | Timing Closure | P&R
+## 🚀 ASIC Physical Design | RTL-to-GDSII | STA | CTS | P&R | Timing Closure
 
-Passionate ASIC Physical Design Engineer with hands-on experience in complete RTL-to-GDSII implementation flow including Floorplanning, Placement, Clock Tree Synthesis (CTS), Routing, Static Timing Analysis (STA), MMMC analysis, Timing Closure, and PPA Optimization using Cadence Innovus, Genus, and OpenLane (Sky130).
+I am an **Electronics & Communication Engineering graduate** focused on **ASIC Physical Design and Backend VLSI**, with hands-on experience in **RTL-to-GDSII implementation** using **Cadence Genus and Innovus**.
 
-🎓 Bachelor of Engineering (B.E) in Electronics & Communication Engineering — 2026  
-🏢 Physical Design Intern at S2S Semiconductors / VLSIMINDS  
+I have hands-on experience in **Synthesis, Floorplanning, Macro Placement, Power Planning, Placement, Clock Tree Synthesis (CTS), Routing, Static Timing Analysis (STA), Timing Closure, DRC Debugging, and QoR Optimization**.
+
+I have worked on ASIC designs using a **45nm technology node** and am currently undergoing **advanced ASIC Physical Design training**, strengthening my expertise in physical implementation, STA, timing closure, and design optimization.
+
+🎓 **B.E. Electronics & Communication Engineering — 2026**
+📊 **CGPA: 8.44**
+🏢 **ASIC Physical Design Trainee — VLSIMINDS (A Division of S2C Semiconductor Pvt. Ltd.)**
+💼 **Former ASIC Physical Design Intern — VLSIMINDS (A Division of S2C Semiconductor Pvt. Ltd.)**
 📍 Bengaluru, India
 
 ---
 
-## ⚡ Specialization
+## 💼 Physical Design Experience
 
-- ASIC Physical Design
-- RTL-to-GDSII Flow
-- Timing Closure
-- Clock Tree Synthesis (CTS)
-- Static Timing Analysis (STA)
-- Routing Optimization
-- PPA Optimization
-- TCL Automation
+### 🔹 ASIC Physical Design Trainee
 
----
+**VLSIMINDS — A Division of S2C Semiconductor Pvt. Ltd.**
+**June 2026 – Present | Bengaluru**
 
-## 🔧 Tools & Technologies
+Currently undergoing advanced **ASIC Physical Design training** with focus on the complete physical implementation flow and timing analysis.
 
-- Cadence Innovus
-- Cadence Genus
-- OpenLane (Sky130)
-- TCL Scripting
-- Verilog HDL
-- Linux Environment
-- Timing Closure
-- Physical Verification
+### Key Learning & Technical Areas
 
----
+* ASIC Physical Design Flow
+* Netlist, SDC and Timing Libraries
+* Physical Libraries
+* Technology Files
+* TLU+
+* UPF
+* Timing Paths & Timing Arcs
+* Setup & Hold Analysis
+* Clock Latency & Skew
+* Clock Uncertainty
+* Recovery & Removal
+* Multi-Cycle Paths
+* Half-Cycle Paths
+* Timing Bottleneck Analysis
+* Multi-Vt Cells
+* Crosstalk
+* Blockages
+* Electromigration
+* Timing Closure
+* QoR Optimization
 
-## 📌 Featured Projects
-
-### 🔹 SRAM Controller ASIC Design
-Complete RTL-to-GDSII ASIC implementation with timing closure and DRC clean design using Cadence Innovus & Genus.
-
-### 🔹 ChipTop ASIC Physical Design
-Full ASIC Physical Design flow including Floorplanning, Macro Placement, CTS, Routing, and Timing Analysis using Cadence Innovus.
-
-### 🔹 FIFO ASIC Physical Design
-RTL-to-GDSII implementation with Placement & Routing optimization and timing analysis.
-
-### 🔹 ALU16 PPA Optimization (OpenLane)
-16-bit ALU implementation using OpenLane Sky130 with PPA optimization.
+This training is helping me build deeper understanding of **timing-driven physical implementation and real-world ASIC backend challenges**.
 
 ---
 
-# 📚 Research Publication
+### 🔹 ASIC Physical Design Intern
 
-📄 **PERFORMANCE ANALYSIS OF SIGNAL-CONDITIONING SUBSYSTEM USING 90nm TECHNOLOGY**  
-Published in VEDAS — 2026
+**VLSIMINDS — A Division of S2C Semiconductor Pvt. Ltd.**
+**February 2026 – May 2026 | Bengaluru**
 
-Focus Areas:
-- Analog Front-End Design
-- 90nm CMOS
-- Layout-aware analysis
-- Post-layout verification
-- Mixed-signal subsystem behavior
+Worked on the complete **ASIC RTL-to-GDSII flow** using **Cadence Genus and Innovus**.
 
----
+### Responsibilities & Experience
 
-# 🏆 Achievements
+* Synthesis
+* Floorplanning
+* Power Planning
+* Placement
+* Clock Tree Synthesis (CTS)
+* Routing
+* Static Timing Analysis
+* Setup/Hold Analysis
+* Congestion Analysis
+* DRC Debugging
+* QoR Optimization
+* TCL-based report automation
 
-- 🥇 1st Prize — AI Hackathon
-- 🧠 Published VLSI Research Paper
-- 🎓 NPTEL Certified — RTL-to-GDSII Design Flow
-- 💼 Physical Design Internship Experience
-- 🚀 Multiple RTL-to-GDSII ASIC Projects
-
----
-
-## 🎯 Areas of Interest
-
-- ASIC Physical Design
-- Timing Closure
-- STA
-- CTS
-- Routing Optimization
-- Low Power Design
-- PPA Optimization
-- Backend VLSI Flow
+Worked on **SRAM Controller and ChipTop designs using a 45nm technology node**.
 
 ---
 
-## 🌐 Connect With Me
+# 🔬 Featured ASIC Projects
 
-- LinkedIn: https://www.linkedin.com/in/tavakalmastan
-- GitHub: https://github.com/Tavakalmastan
+## 🔹 ChipTop ASIC Physical Design — 45nm
+
+**Netlist-to-GDSII | Cadence Innovus**
+
+Implemented the complete Physical Design flow:
+
+**Floorplanning → Macro Placement → Power Planning → Placement → CTS → Routing → Timing Analysis → Physical Verification**
+
+### Key Results
+
+* Reduced DRC violations from **11 → 0**
+* Resolved timing and connectivity challenges
+* Achieved **zero connectivity violations**
+* Performed placement and routing optimization
+* Analyzed timing and physical implementation reports
 
 ---
 
-⭐ Exploring opportunities in ASIC Physical Design, Backend VLSI, and RTL-to-GDSII Implementation.
+## 🔹 SRAM Controller ASIC Design — 45nm
 
+**RTL-to-GDSII | Cadence Genus + Innovus**
+
+Designed the SRAM Controller RTL in Verilog and implemented the complete ASIC flow:
+
+**RTL → Synthesis → Floorplanning → Power Planning → Placement → CTS → Routing → Timing Verification**
+
+### Key Results & Work
+
+* Resolved approximately **7,800 DRC violations**
+* Addressed setup timing violations through iterative physical optimization
+* Worked on hold timing challenges
+* Achieved clean hold timing with **0.020 ns clock skew**
+* Generated timing, power, and area reports
+* Performed iterative physical optimization for timing and routing
+
+---
+
+## 🔹 FIFO ASIC Physical Design
+
+**RTL-to-GDSII | Cadence Innovus**
+
+Implemented and analyzed the ASIC Physical Design flow including:
+
+* Floorplanning
+* Power Planning
+* Placement
+* CTS
+* Routing
+* Timing Analysis
+* Physical Verification
+
+---
+
+## 🔹 ALU16 PPA Optimization
+
+**OpenLane | Sky130**
+
+Implemented a 16-bit ALU using the OpenLane RTL-to-GDSII flow.
+
+Explored:
+
+* Synthesis
+* Floorplanning
+* Placement
+* CTS
+* Routing
+* Timing
+* Area
+* Power
+* PPA Optimization
+
+---
+
+# 🧠 Technical Skills
+
+## Physical Design
+
+* RTL-to-GDSII
+* Floorplanning
+* Macro Placement
+* Power Planning
+* Placement
+* Clock Tree Synthesis (CTS)
+* Routing
+* Timing Closure
+* QoR Optimization
+* Physical Verification
+* DRC Debugging
+* Electromigration
+
+## Static Timing Analysis
+
+* Timing Paths & Timing Arcs
+* Setup & Hold
+* Clock Latency
+* Clock Skew
+* Clock Uncertainty
+* Recovery & Removal
+* Multi-Cycle Paths
+* Half-Cycle Paths
+* Timing Bottleneck Analysis
+* Crosstalk
+
+## PD Inputs
+
+* Netlist
+* SDC
+* Timing Libraries
+* Physical Libraries
+* Technology Files
+* TLU+
+* UPF
+* Multi-Vt Cells
+
+## EDA Tools
+
+* **Cadence Innovus**
+* **Cadence Genus**
+* **PrimeTime — Learning**
+* **Cadence Virtuoso**
+* **OpenLane / Sky130**
+
+## Programming & Scripting
+
+* **TCL**
+* **Python**
+* **Verilog HDL**
+* **C — Basic**
+
+## Environment & Development
+
+* Linux
+* GVim
+* Git
+* GitHub
+
+---
+
+# 📊 Physical Design Focus
+
+I am particularly interested in:
+
+**ASIC Physical Design • Backend VLSI • P&R • STA • CTS • Timing Closure • Physical Verification • QoR Optimization • RTL-to-GDSII**
+
+---
+
+# 📚 VLSI & Research Background
+
+Along with Physical Design, I have an academic background in **CMOS circuit design and VLSI**, including:
+
+* 90nm CMOS technology
+* Analog / Mixed-Signal Circuit Design
+* Layout Design
+* Post-Layout Analysis
+* CMOS Fundamentals
+* Signal-Conditioning Circuits
+
+---
+
+# 🎓 Education
+
+### Bachelor of Engineering — Electronics & Communication Engineering
+
+**Acharya Institute of Technology, Bengaluru**
+**2022 – 2026 | CGPA: 8.44**
+
+---
+
+# 🏆 Certifications & Activities
+
+* **NPTEL — VLSI Design Flow: RTL to GDS**
+* **Digital IC Design using Cadence Tools — C2S Programme**
+* **Memory Design and Verification using Verilog — C2S Programme**
+* **Participant — VEDAS 2026 International Conference**
+
+---
+
+# 🎯 Career Objective
+
+I am currently looking for **entry-level opportunities in ASIC Physical Design / Backend VLSI**, where I can contribute to real-world chip implementation, learn from experienced engineers, and continue developing strong expertise in **Physical Design, STA, Timing Closure, and RTL-to-GDSII implementation**.
+
+📍 **Open to opportunities in Bengaluru and Hyderabad.**
+
+---
+
+# 🌐 Let's Connect
+
+🔗 **LinkedIn:**
+https://www.linkedin.com/in/tavakalmastan
+
+🔗 **GitHub:**
+https://github.com/Tavakalmastan
+
+---
+
+# 📩 Open to Work
+
+**ASIC Physical Design | Backend VLSI | P&R | STA | CTS | Timing Closure | RTL-to-GDSII**
+
+If you are hiring for entry-level Physical Design roles, looking for VLSI talent, or know of relevant opportunities, feel free to connect or reach out.
+
+⭐ Thanks for visiting my profile!
